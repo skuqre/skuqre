@@ -4,14 +4,10 @@ I make stuff in Lua, mostly, but I'm trying to learn more as I live my life.
 
 ## Links
 You can access most of my links in the [overworld](https://www.skuqre.tk), 
-
 but if you're too lazy to go there, here are they:
-
-[Twitter](https://twitter.com/skuqre)
-
-[Twitch](https://twitch.tv/skuqre)
-
-[YouTube](https://www.youtube.com/channel/UCKKMTzZUDYvLdkmr8SLfGvg)
+- [Twitter](https://twitter.com/skuqre)
+- [Twitch](https://twitch.tv/skuqre)
+- [YouTube](https://www.youtube.com/channel/UCKKMTzZUDYvLdkmr8SLfGvg)
 
 
 <!--
